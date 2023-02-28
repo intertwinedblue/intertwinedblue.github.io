@@ -1,12 +1,8 @@
-
-
-
-
 body {
     background:#B0C4DE;
     font-family:Arial, Helvetica, sans-serif;
 }
-/*
+
 .assignment {
     display:flex;
     padding:10px;
@@ -20,7 +16,7 @@ body {
     margin:10px;
     border:3px solid #191970;
 }
-
+/*
 .assignment img:hover {
     border:3px solid #B0E0E6;
 }
