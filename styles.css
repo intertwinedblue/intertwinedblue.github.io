@@ -16,16 +16,16 @@ body {
     margin:10px;
     border:3px solid #191970;
 }
-/*
+
 .assignment img:hover {
     border:3px solid #B0E0E6;
 }
-*/
+
 h1{
     color: #2F4F4F;
     text-align: center;
 }
-/*
+
 a {
     text-decoration:none;
     color: #191970;
@@ -35,4 +35,3 @@ a:hover {
     color: #B0E0E6;
 }
 
-*/
